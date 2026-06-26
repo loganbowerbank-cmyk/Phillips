@@ -1,1 +1,1 @@
-Site URL: https://github.com/loganbowerbank-cmyk/Phillips/tree/main
+Site URL: https://github.com/loganbowerbank-cmyk/Phillips/blob/main/index.html
